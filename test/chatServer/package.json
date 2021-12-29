@@ -1,0 +1,16 @@
+{
+    "name": "chat-server",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node src/index.js",
+        "build": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^2.4.1"
+    },
+    "dependencies": {
+        "websocket": "^1.0.34"
+    }
+}

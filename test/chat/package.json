@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "browser:list": "npx browserslist"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
